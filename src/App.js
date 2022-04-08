@@ -1,5 +1,4 @@
 
-
 import './App.css';
 import NewsPage from './components/NewsPage'
 

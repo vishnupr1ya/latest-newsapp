@@ -1,5 +1,4 @@
 
-
 const NewsCard = ({article}) => {
     if(!article.title)return null;
     return (
